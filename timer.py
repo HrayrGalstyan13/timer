@@ -1,4 +1,5 @@
 import time
+
 L = input("Insert the time to countdown 'h:m:d' ")
 L = L.split(":")
 sec = int(L[2])
